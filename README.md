@@ -138,6 +138,12 @@ This section helps potential implementers assess the convention's maturity and a
   - Maintainer: @clbarnes
   - Since: Version 0.1.0
 
+- **[zarrcade](https://github.com/JaneliaSciComp/zarrcade)** - Zarr gallery builder
+  - Language: Typescript/Python
+  - Status: Production
+  - Maintainer: @krokicki
+  - Since: Version 2.0.0
+
 ### Datasets Using This Convention
 
 - **[Example ome-ngff-validator](https://ome.github.io/ome-ngff-validator/?source=https://pub-c4a3c62df94840688feeada706020240.r2.dev/4ffaeed2-fa70-4907-820f-8a96ef683095.zarr)** - HeLa cells showing click chemistry and immunofluorescence
